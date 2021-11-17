@@ -1,0 +1,63 @@
+.header { background-color: #27AE60;
+    height: 80px;
+    width: 100%;
+    top: 0;
+    left: 0;
+    }
+    .nav { display: flex;
+        justify-content: space-between;
+        max-width: 992px;
+        margin: 0 auto;
+    }
+    .letracolor{ color: #145A32 ;
+        text-decoration: none;
+    }
+    .logo{ font-size: 30px;
+    font-weight: bold;
+    padding: 0 40;
+    line-height: 80px;
+    text-transform: uppercase;
+    }
+    .items { display: flex;
+        margin-right: 40px;
+        list-style: none;
+    } 
+    .item { font-size: 18px;
+        margin: 0 10px;
+        line-height: 80px;
+    }
+    .item1:link{ background-color:#2ECC71;
+    }
+    .item:visited { background-color: #ABEBC6;
+    }
+    .item1:hover { background-color: #82E0AA;
+        transition: 0.5s;
+    }
+    
+    .item1 { padding: 8px 12px;
+    }
+    .body { background-color:#2ECC71 ;}
+    .row{ display: flex;
+    justify-content: space-around;
+
+    padding:20px;
+    } 
+    .card { padding-top: 10px;
+        width: 20%;
+
+    }
+    .cuerpo { background-color: #2ECC71;
+
+    }
+    .letracolor { color: #fff;
+    }
+
+
+    
+
+
+    
+
+
+    
+    

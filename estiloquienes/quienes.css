@@ -1,0 +1,88 @@
+
+.header { background-color: #27AE60;
+    height: 80px;
+    width: 100%;
+    top: 0;
+    left: 0;
+    }
+.nav { display: flex;
+    justify-content: space-between;
+    max-width: 992px;
+    margin: 0 auto;
+}
+.letracolor{ color: #145A32 ;
+    text-decoration: none;
+}
+.logo{ font-size: 30px;
+font-weight: bold;
+padding: 0 40;
+line-height: 80px;
+text-transform: uppercase;
+}
+.items { display: flex;
+    margin-right: 40px;
+    list-style: none;
+} 
+.item { font-size: 18px;
+    margin: 0 10px;
+    line-height: 80px;
+}
+.item1:link{ background-color:#2ECC71;
+}
+.item:visited { background-color: #ABEBC6;
+}
+.item1:hover { background-color: #82E0AA;
+    transition: 0.5s;
+}
+
+.item1 { padding: 8px 12px;
+}
+
+.titulo{ background-color: rgb(4, 78, 78);
+          font-size: large 54px;
+          font-family: Lato; color: #fff;
+}
+.parrafosverdes{background-color:#2ECC71;
+    
+    font-size: medium 30px;
+    font-family: fantasy; color: #fff;
+}
+.parrafos{
+    font-family: fantasy 35px; color: #fff;
+    font-size: large 20px;
+ }
+
+
+
+.piesdepaginas{ background-color: #2ECC71;
+    font-size: medium 10px ;
+    font-family: fantasy; color: #fff;
+}
+
+.aside {background-color: #2ECC71;
+font-family: fantasy 35px; color: #fff;
+font-size: medium 25px;
+margin: 25px;
+}
+.tamaño70 { width: 70%;
+  }
+.tamaño20 {width: 20%; margin: 50px;
+padding: auto;}
+
+.flex { display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.body { background-color: #2ECC71;
+
+}
+.div { margin: 40px 20px 40px 20px;
+
+}
+h1,h2,h3,h4,h5,h6{color:#fff}
+.letracolor { color: #fff;
+}
+.p{ font-family: Lato;
+font-size: 1.3rem;
+}
+.r { font-size: 2.5rem;}
