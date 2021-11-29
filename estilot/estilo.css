@@ -54,3 +54,10 @@
     }
     .letracolor { color: #fff;
     }
+@media screen and (max-width:640px){
+    .footer{
+        display:block 
+    }   
+    .header{ height: auto;} 
+    
+}
