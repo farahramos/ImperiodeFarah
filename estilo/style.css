@@ -74,3 +74,10 @@ text-transform: uppercase;
 
 }
 .iconosredes .fab{ margin: 5px;}
+@media screen and (max-width:640px){
+    .footer{
+        display:block 
+    }   
+    .header{ height: auto;} 
+    
+}
